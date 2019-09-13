@@ -13,11 +13,11 @@ const getUsers = (request, response) => {
 
 };
 
-const updateUser = (request, response) => {
+const getUsersMeta = (request, response) => {
 
 };
 
-const getUsersMeta = (request, response) => {
+const updateUser = (request, response) => {
 
 };
 
